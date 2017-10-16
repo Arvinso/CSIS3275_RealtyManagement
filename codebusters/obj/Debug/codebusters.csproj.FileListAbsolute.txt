@@ -1,0 +1,21 @@
+C:\Users\Wierie\Dropbox\DOUGLAS courses\sem 3\Software engineering\Project\codebusters\codebusters\bin\Debug\codebusters.exe.config
+C:\Users\Wierie\Dropbox\DOUGLAS courses\sem 3\Software engineering\Project\codebusters\codebusters\bin\Debug\codebusters.exe
+C:\Users\Wierie\Dropbox\DOUGLAS courses\sem 3\Software engineering\Project\codebusters\codebusters\bin\Debug\codebusters.pdb
+C:\Users\Wierie\Dropbox\DOUGLAS courses\sem 3\Software engineering\Project\codebusters\codebusters\obj\Debug\codebusters.csprojResolveAssemblyReference.cache
+C:\Users\Wierie\Dropbox\DOUGLAS courses\sem 3\Software engineering\Project\codebusters\codebusters\obj\Debug\codebusters.Form1.resources
+C:\Users\Wierie\Dropbox\DOUGLAS courses\sem 3\Software engineering\Project\codebusters\codebusters\obj\Debug\codebusters.Properties.Resources.resources
+C:\Users\Wierie\Dropbox\DOUGLAS courses\sem 3\Software engineering\Project\codebusters\codebusters\obj\Debug\codebusters.csproj.GenerateResource.Cache
+C:\Users\Wierie\Dropbox\DOUGLAS courses\sem 3\Software engineering\Project\codebusters\codebusters\obj\Debug\codebusters.exe
+C:\Users\Wierie\Dropbox\DOUGLAS courses\sem 3\Software engineering\Project\codebusters\codebusters\obj\Debug\codebusters.pdb
+C:\Users\Wierie\Dropbox\DOUGLAS courses\sem 3\Software engineering\Project\codebusters\codebusters\obj\Debug\codebusters.Login.resources
+C:\Users\Wierie\Dropbox\DOUGLAS courses\sem 3\Software engineering\Project\codebusters\codebusters\obj\Debug\codebusters.Agent.resources
+C:\Users\Wierie\Dropbox\DOUGLAS courses\sem 3\Software engineering\Project\codebusters\codebusters\obj\Debug\codebusters.HR.resources
+C:\Users\Wierie\Dropbox\DOUGLAS courses\sem 3\Software engineering\Project\codebusters\codebusters\obj\Debug\codebusters.Manager.resources
+C:\Users\Wierie\Dropbox\DOUGLAS courses\sem 3\Software engineering\Project\codebusters\codebusters\obj\Debug\codebusters.frmcommissionreport.resources
+C:\Users\Wierie\Dropbox\DOUGLAS courses\sem 3\Software engineering\Project\codebusters\codebusters\obj\Debug\RdlCompile.cache
+C:\Users\Wierie\Dropbox\DOUGLAS courses\sem 3\Software engineering\Project\codebusters\codebusters\obj\Debug\RdlCompile.compiled
+C:\Users\Wierie\Dropbox\DOUGLAS courses\sem 3\Software engineering\Project\codebusters\codebusters\bin\Debug\MySql.Data.dll
+C:\Users\Wierie\Dropbox\DOUGLAS courses\sem 3\Software engineering\Project\codebusters\codebusters\obj\Debug\codebusters.Saleschargetotalform.resources
+C:\Users\wierie\Dropbox\DOUGLAS courses\PDD CSIS\sem 3\Software engineering\Project\codebusters\codebusters\bin\Debug\codebusters.exe.config
+C:\Users\wierie\Dropbox\DOUGLAS courses\PDD CSIS\sem 3\Software engineering\Project\codebusters\codebusters\obj\Debug\codebusters.exe
+C:\Users\wierie\Dropbox\DOUGLAS courses\PDD CSIS\sem 3\Software engineering\Project\codebusters\codebusters\obj\Debug\codebusters.pdb
